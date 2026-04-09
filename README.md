@@ -47,10 +47,10 @@ To explore the relationship between phone usage and various aspects of teen life
 ## Dashboard Preview
 
 ### Page 1
-![Dashboard Page 1](dashboard_images\usage_insights.png)
+![Dashboard Page 1](dashboard_images/usage_insights.png)
 
 ### Page 2
-![Dashboard Page 2](dashboard_images\wellbeing_impact.png)
+![Dashboard Page 2](dashboard_images/wellbeing_impact.png)
 
 ---
 
